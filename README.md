@@ -389,6 +389,6 @@ La lectura es de 250V
 
 - Identificamos los componentes que participan en un circuito eléctrico básico y cuál es su función dentro de este mediante la relación de un esquema con un circuito físico. Así también se logro medir de manera optima tanto el voltaje, la corriente y la resistencia presente en el circuito.
 
-
-
 **6. BIBLIOGRAFÍA**
+
+FLOYD, T. L. (2008). DISPOSITIVOS ELECTRONICOS (8a. ed.). MEXICO: PEARSON EDUCACION.
