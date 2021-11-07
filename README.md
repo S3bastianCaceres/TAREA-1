@@ -1,11 +1,24 @@
 # TAREA-1
+
+**Capitulo 1 y 2 / Principios de Circuitos Eléctricos  - Floyd**
+
 **1. OBJETIVOS**
 
-- Objetivo General
+- **Objetivo General**
 
 
 
-- Objetivos Especificos
+- **Objetivos Específicos**
+
+-Analizar el estándar del Sistema Internacional de unidades mediante el estudio de Unidades fundamentales y Unidades derivadas.
+
+-Emplear tanto la notación científica como la notación de ingeniería y los prefijos métricos con el fin de simbolizar cantidades que sean grandes o pequeñas.
+
+-Identificar y aplicar los conceptos de carga eléctrica, voltaje, corriente, resistencias para la resolución de ejercicios propuestos.
+
+-Clasificar y analizar los diferentes tipos de resistores para leer sus valores según el código de colores.
+
+-Examinar y explicar un circuito eléctrico básico con el fin de realizar las mediciones correspondientes.
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
@@ -362,5 +375,7 @@ La lectura es de 250V
 **4. VIDEO**
 
 **5. CONCLUSIONES**
+
+
 
 **6. BIBLIOGRAFÍA**
