@@ -6,7 +6,7 @@
 
 - **Objetivo General**
 
-
+Identificar las cantidades, unidades, voltaje, corriente y resistencias mediente formulas matematicas, quimica basica y sistemas de medicion para definir que cantidades numericas se presentan mediante operaciones entre diversas unidades
 
 - **Objetivos Específicos**
 
