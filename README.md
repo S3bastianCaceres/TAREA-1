@@ -2,44 +2,41 @@
 Plantilla oficial
 # Capitulo 1
 
-EJERCICIOS
+**EJERCICIOS**
 
-Sección 1-2 Notación científica
-1. Exprese cada uno de los números siguientes en notación científica:
+**Sección 1-2 Notación científica**
+
+**1. Exprese cada uno de los números siguientes en notación científica:**
 
 <img src="https://latex.codecogs.com/svg.image?a)3000=3\times&space;10^{3}&space;&space;&space;&space;&space;" title="a)3000=3\times 10^{3} " />
 <img src="https://latex.codecogs.com/svg.image?b)75000=7,5\times10^{4}" title="b)75000=7,5\times10^{4}" />
 <img src="https://latex.codecogs.com/svg.image?c)2000&space;000=2\times10^{6}" title="c)2000 000=2\times10^{6}" />
 
-3. Exprese cada uno de los números siguientes en notación científica:
+**3. Exprese cada uno de los números siguientes en notación científica:**
 
 <img src="https://latex.codecogs.com/svg.image?a)8400=8,4\times10^{3}" title="a)8400=8,4\times10^{3}" />
 <img src="https://latex.codecogs.com/svg.image?b)99000=9,9\times10^{4}" title="b)99000=9,9\times10^{4}" />
 <img src="https://latex.codecogs.com/svg.image?c)0,2\times10^{6}=2\times10^{6-1}=2\times10^{5}" title="c)0,2\times10^{6}=2\times10^{6-1}=2\times10^{5}" />
 
-5. Exprese cada uno de los números siguientes en notación científica:
+**5. Exprese cada uno de los números siguientes en notación científica:**
 
 <img src="https://latex.codecogs.com/svg.image?a)32\times10^{3}=3,2\times10^{3&plus;1}=3,2\times10^{4}" title="a)32\times10^{3}=3,2\times10^{3+1}=3,2\times10^{4}" />
 <img src="https://latex.codecogs.com/svg.image?b)6800\times10^{-6}=6,8\times10^{-6&plus;3}=6,8\times10^{-3}" title="b)6800\times10^{-6}=6,8\times10^{-6+3}=6,8\times10^{-3}" />
 <img src="https://latex.codecogs.com/svg.image?c)870\times10^{8}=8,7\times10^{8&plus;2}=8,7\times10^{10}" title="c)870\times10^{8}=8,7\times10^{8+2}=8,7\times10^{10}" />
 
 
-7. Exprese cada uno de los números siguientes como un número decimal regular:
+**7. Exprese cada uno de los números siguientes como un número decimal regular:**
 
 <img src="https://latex.codecogs.com/svg.image?a)2,5\times10^{-6}=0,0000025" title="a)2,5\times10^{-6}=0,0000025" />
 <img src="https://latex.codecogs.com/svg.image?b)5\times10^{2}=500" title="b)5\times10^{2}=500" />
 <img src="https://latex.codecogs.com/svg.image?c)3,9\times10^{-1}=0,39" title="c)3,9\times10^{-1}=0,39" />
 
 
-9. Sume los números siguientes:
+**9. Sume los números siguientes:**
 
 <img src="https://latex.codecogs.com/svg.image?a)(9,2\times10^{6})&plus;(3,4\times10^{7})=(0,92\times10^{7})&plus;(3,4\times10^{7})=4,32\times10^{7}" title="a)(9,2\times10^{6})+(3,4\times10^{7})=(0,92\times10^{7})+(3,4\times10^{7})=4,32\times10^{7}" />
 <img src="https://latex.codecogs.com/svg.image?b)&space;(5\times10^{3})&plus;(8,5\times10^{-1})=(5\times10^{3})&plus;(0,00085\times10^{3})=5,00085\times10^{3}" title="b) (5\times10^{3})+(8,5\times10^{-1})=(5\times10^{3})+(0,00085\times10^{3})=5,00085\times10^{3}" />
 <img src="https://latex.codecogs.com/svg.image?c)(5,6\times10^{-8})&plus;(4,6\times10^{-9})=(5,6\times10^{-8})&plus;(0,46\times10^{-8})=6.06\times10^{-8}" title="c)(5,6\times10^{-8})+(4,6\times10^{-9})=(5,6\times10^{-8})+(0,46\times10^{-8})=6.06\times10^{-8}" />	
-<br />
-<br />
-<br />
-<br />
 
 ##### 11. Realice las siguientes multiplicaciones:
 
@@ -102,16 +99,42 @@ Sección 1-2 Notación científica
 ![imagen](https://user-images.githubusercontent.com/93798427/140624439-a01c9f94-b613-411c-b794-8c70d3d9ede7.png)
 >![imagen](https://user-images.githubusercontent.com/93798427/140624575-b12349d8-de6d-42d9-a09c-a472879d28a1.png)
 
+**21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico:** 
+
+<img src="https://latex.codecogs.com/svg.image?a)0.000345A=345*10^{-6}A=345\mu&space;A" title="a)0.000345A=345*10^{-6}A=345\mu A" />
+<img src="https://latex.codecogs.com/svg.image?b)0.025A=25*10^{-3}A=25mA" title="b)0.025A=25*10^{-3}A=25mA" />
+<img src="https://latex.codecogs.com/svg.image?c)0.00000000129A=1.29*10^{-9}A=1.29n&space;A" title="c)0.00000000129A=1.29*10^{-9}A=1.29n A" />
+
+**23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
+
+<img src="https://latex.codecogs.com/svg.image?a)3*10^{-6}F=3\mu&space;F&space;" title="a)3*10^{-6}F=3\mu F " />
+<img src="https://latex.codecogs.com/svg.image?b)3.3*10^{6}\Omega=3.3M\Omega&space;" title="b)3.3*10^{6}\Omega=3.3M\Omega " />
+<img src="https://latex.codecogs.com/svg.image?c)350*10^{-9}A=350nA&space;" title="c)350*10^{-9}A=350nA " />
+
+**25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
+
+<img src="https://latex.codecogs.com/svg.image?a)7.5pA=(p=10^{-12})&space;=7.5*10^{-12}A" title="a)7.5pA=(p=10^{-12}) =7.5*10^{-12}A" />
+<img src="https://latex.codecogs.com/svg.image?b)3.3GHz=(G=10^{9})&space;=3.3*10^{9}Hz" title="b)3.3GHz=(G=10^{9}) =3.3*10^{9}Hz" />
+<img src="https://latex.codecogs.com/svg.image?c)280nW=(n=10^{-9})=280*10^{-9}W=2.8*10^{-7}W" title="c)280nW=(n=10^{-9})=280*10^{-9}W=2.8*10^{-7}W" />
+
+**27. Realice las conversiones indicadas:**
+
+<img src="https://latex.codecogs.com/svg.image?a)\textit{5&space;mA&space;a&space;microamperes}=5*10^{-3}A=5000*10^{-6}A=5000\mu&space;A" title="a)\textit{ 5 mA a microamperes}=5*10^{-3}A=5000*10^{-6}A=5000\mu A" />
+<img src="https://latex.codecogs.com/svg.image?b)3200&space;\mu&space;W\textit{a&space;miliwatts}=3200*10^{-6}W=3.2*10^{-3}W=3.2mW" title="b)3200 \mu W\textit{a miliwatts}=3200*10^{-6}W=3.2*10^{-3}W=3.2mW" />
+<img src="https://latex.codecogs.com/svg.image?c)\textit{5000&space;kV&space;a&space;megavolts&space;}=5000*10^{3}V=5*10^{6}V=5MV" title="c)\textit{ 5000 kV a megavolts }=5000*10^{3}V=5*10^{6}V=5MV" />
+<img src="https://latex.codecogs.com/svg.image?d)\textit{10&space;MW&space;a&space;kilowatts}=10*10^{6}W=10000*10^{3}W=10000kW" title="d)\textit{ 10 MW a kilowatts}=10*10^{6}W=10000*10^{3}W=10000kW" />
+
+**29. Sume las siguientes cantidades:**
+
+<img src="https://latex.codecogs.com/svg.image?a)&space;50mA&plus;680\mu&space;A=50*10^{-3}A&plus;680*10^{-6}A=50*10^{-3}A&plus;0.68*10^{-3}A=50mA&plus;0.68mA=50.68mA" title="a) 50mA+680\mu A=50*10^{-3}A+680*10^{-6}A=50*10^{-3}A+0.68*10^{-3}A=50mA+0.68mA=50.68mA" />
+<img src="https://latex.codecogs.com/svg.image?b)120k\Omega&space;&plus;2.2M\Omega&space;=120*10^{3}\Omega&space;&plus;2.2*10^{6}\Omega&space;=0.12*10^{6}\Omega&space;&plus;2.2*10^{6}\Omega&space;=0.12M\Omega&space;&plus;2.2M\Omega&space;=2.32M\Omega&space;" title="b)120k\Omega +2.2M\Omega =120*10^{3}\Omega +2.2*10^{6}\Omega =0.12*10^{6}\Omega +2.2*10^{6}\Omega =0.12M\Omega +2.2M\Omega =2.32M\Omega " />
+<img src="https://latex.codecogs.com/svg.image?c)0.02\mu&space;F&plus;3300pF=0.02*10^{-6}F&plus;3300*10^{-12}F=0.02*10^{-6}F&plus;0.0033*10^{-6}F=0.02\mu&space;F&plus;0.0033\mu&space;F=0.0233\mu&space;F" title="c)0.02\mu F+3300pF=0.02*10^{-6}F+3300*10^{-12}F=0.02*10^{-6}F+0.0033*10^{-6}F=0.02\mu F+0.0033\mu F=0.0233\mu F" />
 
 # CAPITULO 2
 
-<br />
-<br />
-<br />
-<br />
+**SECCIÓN 2–2 Carga eléctrica**
 
-SECCIÓN 2–2 Carga eléctrica
-1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+**1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
 Dato:
 <br />
@@ -129,12 +152,19 @@ Formula:
 >![imagen](https://user-images.githubusercontent.com/93798427/140624942-4f237f25-2f95-4cf6-9a55-63ab0ac00fbe.png)
 
 
-
-
-
-
-SECCIÓN 2–3 Voltaje, corriente y resistencia
+**SECCIÓN 2–3 Voltaje, corriente y resistencia**
 <br />
+
+**5. Determine el voltaje en cada uno de los siguientes casos:**
+
+<img src="https://latex.codecogs.com/svg.image?a)\textit{&space;10J/C&space;=&space;Por&space;cada&space;1C&space;de&space;carga&space;estan&space;disponibles&space;10J&space;de&space;energia}" title="a)\textit{ 10J/C = Por cada 1C de carga estan disponibles 10J de energia}" />
+<img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{10J}{1C}=10V" title="V=\frac{W}{Q}=\frac{10J}{1C}=10V" />
+<img src="https://latex.codecogs.com/svg.image?b)\textit{&space;5J/2C&space;=&space;Por&space;cada&space;2C&space;de&space;carga&space;estan&space;disponibles&space;5J&space;de&space;energia}" title="b)\textit{ 5J/2C = Por cada 2C de carga estan disponibles 5J de energia}" />
+<img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{5J}{2C}=2.5V" title="V=\frac{W}{Q}=\frac{5J}{2C}=2.5V" />
+<img src="https://latex.codecogs.com/svg.image?c)\textit{&space;100J/25C&space;=&space;Por&space;cada&space;25C&space;de&space;carga&space;estan&space;disponibles&space;100J&space;de&space;energia}" title="c)\textit{ 100J/25C = Por cada 25C de carga estan disponibles 100J de energia}" />
+<img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{100J}{25C}=4V" title="V=\frac{W}{Q}=\frac{100J}{25C}=4V" />
+
+
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
 un resistor?
 
@@ -161,12 +191,9 @@ Fórmula:
 
 >![imagen](https://user-images.githubusercontent.com/93798427/140625195-5c39ef34-a7f2-4877-ad5d-8a3dad8ac488.png)
 
+**11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?**
 
-
-
-
-
-
+<img src="https://latex.codecogs.com/svg.image?I=\frac{Q}{t}=\frac{0.6C}{3s}=0.2A" title="I=\frac{Q}{t}=\frac{0.6C}{3s}=0.2A" />
 
 13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
 
@@ -190,10 +217,19 @@ Fórmula:
 ![imagen](https://user-images.githubusercontent.com/93798427/140625289-6b72d50f-050c-443d-93c7-9976203ab871.png)
 >![imagen](https://user-images.githubusercontent.com/93798427/140625340-a5768d1e-8f8d-4258-a71d-49e7c335c446.png)
 
-
-
 SECCIÓN 2–4 Fuentes de voltaje y de corriente
 <br />
+
+**17. Enliste cuatro fuentes de voltaje comunes.**
+
+**Fuente de potencia de cd:** Las fuentes de corriente directa o fuentes de alimentación son un dispositivo que convierte la tensión alterna de la red de suministro, en una o varias tensiones, prácticamente continuas.
+
+**Celdas solares:** La operación de las celdas solares se basa en el efecto fotovoltaico, que es el proceso mediante el cual la energía luminosa se convierte directamente en energía eléctrica.
+
+**Generador:** Los generadores eléctricos convierten la energía mecánica en energía eléctrica por medio de un principio llamado inducción electromagnética.
+
+**Batería:** Una batería es un tipo de fuente de voltaje que convierte energía química en energía eléctrica.
+
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
 La fuente electrónica de potencia controla voltaje y corriente, convierte el voltaje de (ca) en voltaje de (cd).
@@ -204,10 +240,31 @@ La fuente electrónica de potencia controla voltaje y corriente, convierte el vo
 ![imagen](https://user-images.githubusercontent.com/93798427/140625393-3b47bd2b-7a7f-42f6-b684-6ba34f2fac24.png)
 >![imagen](https://user-images.githubusercontent.com/93798427/140625511-d36b096c-a1a2-4bf6-b250-83ad34c0420e.png)
 
-
-
 SECCIÓN 2–5 Resistores
 <br />
+
+**23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:**
+
+**a)** <img src="https://latex.codecogs.com/svg.image?330\Omega&space;=naranja,&space;naranja,&space;cafe,&space;oro" title="330\Omega =naranja, naranja, cafe, oro" /> 
+
+![image](https://user-images.githubusercontent.com/93739242/140631115-295ccfa2-a00a-4438-b060-76977874cd8f.png)
+
+**b)** <img src="https://latex.codecogs.com/svg.image?2.2&space;k\Omega&space;=rojo,&space;rojo,&space;rojo,&space;oro" title="2.2 k\Omega =rojo, rojo, rojo, oro" /> 
+
+![image](https://user-images.githubusercontent.com/93739242/140631219-1207e2b0-f255-476c-a8e3-660cad9bb7bb.png)
+
+**c)** <img src="https://latex.codecogs.com/svg.image?56&space;k\Omega&space;=verde,&space;azul,&space;naranja,&space;oro" title="56 k\Omega =verde, azul, naranja, oro" />
+
+![image](https://user-images.githubusercontent.com/93739242/140631225-63e2a8ac-fb52-4ff8-974e-e8a133364cbd.png)
+
+**d)** <img src="https://latex.codecogs.com/svg.image?100&space;k\Omega&space;=cafe,&space;negro,&space;amarillo,&space;oro" title="100 k\Omega =cafe, negro, amarillo, oro" />
+
+![image](https://user-images.githubusercontent.com/93739242/140631310-5cec4a74-9311-49e0-9697-143dd3f4821e.png)
+
+**e)** <img src="https://latex.codecogs.com/svg.image?39&space;k\Omega&space;=naranja,&space;blanco,&space;naranja,&space;oro" title="39 k\Omega =naranja, blanco, naranja, oro" />
+
+![image](https://user-images.githubusercontent.com/93739242/140631327-435a7830-bc84-497a-904c-e0b8a6ef4d6b.png)
+
 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que 
 cada resistor tiene una tolerancia del 5 por ciento
 
@@ -228,10 +285,9 @@ cada resistor tiene una tolerancia del 5 por ciento
 ![imagen](https://user-images.githubusercontent.com/93798427/140625572-3e9264eb-3819-461b-a6e7-27ffad93feec.png)
 >![imagen](https://user-images.githubusercontent.com/93798427/140625900-b3144551-1d82-41ff-b970-d85ee2097ac3.png)
 
+**29. ¿Cuál es la resistencia indicada por 4K7?**
 
-
-
-
+<img src="https://latex.codecogs.com/svg.image?4K7=4.7k\Omega&space;" title="4K7=4.7k\Omega " />
 
 SECCIÓN 2–6 El circuito eléctrico
 <br />
@@ -244,7 +300,11 @@ La corriente pasa através de la lámpara 2.
 
 > En el caso de la B, debido a que se cierra el circuito 
 
+**35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**
 
+**VS1 conectada a R1 y VS2 conectada a R2 o VS1 conectada a R2 y VS2 conectada a R1** 
+
+![image](https://user-images.githubusercontent.com/93739242/140631559-6cf34cbb-abbc-4ead-9bf7-d5ae1fbbc95c.png)
 
 SECCIÓN 2–7 Mediciones de circuito básicas
 <br />
@@ -262,7 +322,9 @@ Amperimetro: se coloco en serie con respecto a la fuente.
 
 >posición 2: V1=Vs debido a que el circuito se cierra y V2=0
 
+**41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
 
+![image](https://user-images.githubusercontent.com/93739242/140631597-760ffba9-ffd5-4eb5-91fe-ecd0067ef587.png)
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 [![Imagen-3-ejercicio-43.png](https://i.postimg.cc/sxpfmnhr/Imagen-3-ejercicio-43.png)](https://postimg.cc/GTm1hxK7)
@@ -284,6 +346,9 @@ La lectura es de 250V
 
 >![imagen](https://user-images.githubusercontent.com/93798427/140626573-b87e85b9-3b27-4da7-a066-a1df61800a6c.png)
 
+**47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. (a) I1 (b) V1 (c) R1**
+
+![image](https://user-images.githubusercontent.com/93739242/140631625-887e6b30-a00e-4fa0-912d-46fd73e837a9.png)
 
 4. VIDEO
 5. CONCLUSIONES
