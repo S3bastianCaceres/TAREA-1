@@ -391,4 +391,4 @@ La lectura es de 250V
 
 **6. BIBLIOGRAFÍA**
 
-FLOYD, T. L. (2008). DISPOSITIVOS ELECTRONICOS (8a. ed.). MEXICO: PEARSON EDUCACION.
+Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
