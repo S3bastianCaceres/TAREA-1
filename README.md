@@ -1,8 +1,17 @@
 # TAREA-1
-Plantilla oficial
-# Capitulo 1
+**1. OBJETIVOS**
 
-**EJERCICIOS**
+- Objetivo General
+
+
+
+- Objetivos Especificos
+
+**2. MARCO TEÓRICO (RESUMEN)**
+
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+# Capitulo 1
 
 **Sección 1-2 Notación científica**
 
@@ -350,6 +359,8 @@ La lectura es de 250V
 
 ![image](https://user-images.githubusercontent.com/93739242/140631625-887e6b30-a00e-4fa0-912d-46fd73e837a9.png)
 
-4. VIDEO
-5. CONCLUSIONES
-6. BIBLIOGRAFÍA
+**4. VIDEO**
+
+**5. CONCLUSIONES**
+
+**6. BIBLIOGRAFÍA**
