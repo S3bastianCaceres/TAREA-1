@@ -352,6 +352,7 @@ Amperimetro: se coloco en serie con respecto a la fuente.
 [![Imagen-3-ejercicio-43.png](https://i.postimg.cc/sxpfmnhr/Imagen-3-ejercicio-43.png)](https://postimg.cc/GTm1hxK7)
 <br />
 La lectura es de 250V
+
 ##### 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
  ![imagen](https://user-images.githubusercontent.com/93798427/140626338-aba0707b-f31e-4195-ad9c-90460e300af5.png)
  
