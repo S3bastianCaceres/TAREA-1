@@ -124,6 +124,10 @@ Formula:
 <br />
 <img src="https://latex.codecogs.com/svg.image?Q=\frac{29&space;electrones}{6,25\times10^{-18}\frac{electrones}{C}}" title="Q=\frac{29 electrones}{6,25\times10^{-18}\frac{electrones}{C}}" />
 <br /><img src="https://latex.codecogs.com/svg.image?Q=4,64\times10^{-18}C" title="Q=4,64\times10^{-18}C" />
+##### 3. ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?
+>![imagen](https://user-images.githubusercontent.com/93798427/140624935-0facf869-abbd-4fd4-8046-ffc35fa2e28e.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624942-4f237f25-2f95-4cf6-9a55-63ab0ac00fbe.png)
+
 
 
 
@@ -142,7 +146,20 @@ Fórmula:
 <br />
 <img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{800&space;J}{40&space;C}=20\frac{J}{C}=20V" title="V=\frac{W}{Q}=\frac{800 J}{40 C}=20\frac{J}{C}=20V" />
 
+##### 9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+> ![imagen](https://user-images.githubusercontent.com/93798427/140625227-729a82e5-cad3-4e67-8333-d76952ba271f.png)
 
+
+>![imagen](https://user-images.githubusercontent.com/93798427/140625251-26a3362c-2ba2-44ba-819e-cde34bb3c0d2.png)
+
+
+>![imagen](https://user-images.githubusercontent.com/93798427/140625263-771d9f7a-2652-47e4-970c-9fdadca1bd03.png)
+
+
+>![imagen](https://user-images.githubusercontent.com/93798427/140625188-0569caea-53cf-4e36-963b-ff9a9c3a8dff.png)
+
+
+>![imagen](https://user-images.githubusercontent.com/93798427/140625195-5c39ef34-a7f2-4877-ad5d-8a3dad8ac488.png)
 
 
 
@@ -161,7 +178,17 @@ Fórmula:
 <br />
 <img src="https://latex.codecogs.com/svg.image?I=\frac{Q}{t}\Rightarrow&space;Q=(I)(t)=(1.5A)(0.1s)=0.15C" title="I=\frac{Q}{t}\Rightarrow Q=(I)(t)=(1.5A)(0.1s)=0.15C" />
 
+##### 15. Determine la conductancia para cada uno de los siguientes valores de resistencia
+![imagen](https://user-images.githubusercontent.com/93798427/140625278-ccc79a47-8a8c-47cf-9ac9-3ee0f5b745a8.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140625324-69a0ca88-09e2-43ac-9c06-866a8d89d9ca.png)
 
+
+![imagen](https://user-images.githubusercontent.com/93798427/140625285-4c36be68-9233-4fd3-a452-a763a3eb100a.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140625334-f92f89e4-a57f-458d-90af-d7cdf512dba6.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140625289-6b72d50f-050c-443d-93c7-9976203ab871.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140625340-a5768d1e-8f8d-4258-a71d-49e7c335c446.png)
 
 
 
@@ -171,7 +198,11 @@ SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
 La fuente electrónica de potencia controla voltaje y corriente, convierte el voltaje de (ca) en voltaje de (cd).
 
-
+##### 21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+![imagen](https://user-images.githubusercontent.com/93798427/140625387-be8324f6-1ce8-4ae1-875b-bfa76264d659.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140625498-724f79b5-7d1b-41cc-ba78-2b2019bb27dc.png)
+![imagen](https://user-images.githubusercontent.com/93798427/140625393-3b47bd2b-7a7f-42f6-b684-6ba34f2fac24.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140625511-d36b096c-a1a2-4bf6-b250-83ad34c0420e.png)
 
 
 
@@ -184,7 +215,18 @@ cada resistor tiene una tolerancia del 5 por ciento
 <img src="https://latex.codecogs.com/svg.image?b)270K\Omega=270000\Omega&space;&space;\rightarrow&space;rojo;&space;violeta;&space;amarillo;&space;oro" title="b)270K\Omega=270000\Omega \rightarrow rojo; violeta; amarillo; oro" />
 <img src="https://latex.codecogs.com/svg.image?c)5.1M\Omega=5100000\Omega&space;&space;\rightarrow&space;Verde;&space;cafe;&space;verde;&space;oro" title="c)5.1M\Omega=5100000\Omega \rightarrow Verde; cafe; verde; oro" />
 
+##### 27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento
 
+![imagen](https://user-images.githubusercontent.com/93798427/140625557-dadd1dd5-4ec2-4735-a203-a77bc8906b02.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140625827-12cd7b1b-83ed-4c5f-870d-3a133ce670a6.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140625567-d65e285d-4bcd-4bf1-bb81-45b275de85c6.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140625831-cef5a410-4492-4ca1-b544-f63b46f61866.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140625572-3e9264eb-3819-461b-a6e7-27ffad93feec.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140625900-b3144551-1d82-41ff-b970-d85ee2097ac3.png)
 
 
 
@@ -197,7 +239,10 @@ SECCIÓN 2–6 El circuito eléctrico
 [![Imagen-1-ejercicio-31.png](https://i.postimg.cc/9FFYvsLz/Imagen-1-ejercicio-31.png)](https://postimg.cc/nMgmmSbt)
 <br />
 La corriente pasa através de la lámpara 2.
+##### 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito
+![imagen](https://user-images.githubusercontent.com/93798427/140625924-23ee640f-9486-4433-a9be-b73720979755.png)
 
+> En el caso de la B, debido a que se cierra el circuito 
 
 
 
@@ -211,7 +256,11 @@ Voltimero: se coloco en paralelo con respecto a la fuente.
 <br />
 Amperimetro: se coloco en serie con respecto a la fuente.
 
+##### 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?¿En la posición 2?
+![imagen](https://user-images.githubusercontent.com/93798427/140626208-42e02d32-9731-4946-8890-57d6bf8c59ef.png)
+>posición 1: V1=0 Y V2=Vs
 
+>posición 2: V1=Vs debido a que el circuito se cierra y V2=0
 
 
 
@@ -219,6 +268,22 @@ Amperimetro: se coloco en serie con respecto a la fuente.
 [![Imagen-3-ejercicio-43.png](https://i.postimg.cc/sxpfmnhr/Imagen-3-ejercicio-43.png)](https://postimg.cc/GTm1hxK7)
 <br />
 La lectura es de 250V
+##### 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
+ ![imagen](https://user-images.githubusercontent.com/93798427/140626338-aba0707b-f31e-4195-ad9c-90460e300af5.png)
+ 
+>![imagen](https://user-images.githubusercontent.com/93798427/140626542-8343bc15-65bb-4d6c-bb3e-30369656559f.png)
+
+
+ ![imagen](https://user-images.githubusercontent.com/93798427/140626347-88c01e56-98c4-4c85-97ec-03bb246ed2bd.png)
+ 
+>![imagen](https://user-images.githubusercontent.com/93798427/140626565-01954e5c-d264-4378-b363-7872ef39667d.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140626352-a050ae9d-8d9b-4448-9a3f-99f43f55c2dd.png)
+
+
+>![imagen](https://user-images.githubusercontent.com/93798427/140626573-b87e85b9-3b27-4da7-a066-a1df61800a6c.png)
+
 
 4. VIDEO
 5. CONCLUSIONES
