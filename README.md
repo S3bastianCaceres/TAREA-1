@@ -22,6 +22,8 @@ Identificar las cantidades, unidades, voltaje, corriente y resistencias mediente
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
+[![Resumen-Capitulo-1.png](https://i.postimg.cc/JzKx3QRd/Resumen-Capitulo-1.png)](https://postimg.cc/JsDjMZDb)
+
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 # Capitulo 1
