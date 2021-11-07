@@ -24,6 +24,8 @@ Identificar las cantidades, unidades, voltaje, corriente y resistencias mediente
 
 [![Resumen-Capitulo-1.png](https://i.postimg.cc/JzKx3QRd/Resumen-Capitulo-1.png)](https://postimg.cc/JsDjMZDb)
 
+<br />
+
 [![RESUMEN-CAPITULO-2.png](https://i.postimg.cc/x1rp1jsx/RESUMEN-CAPITULO-2.png)](https://postimg.cc/hfr1CnRT)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
