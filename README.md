@@ -14,7 +14,7 @@
 
 -Emplear tanto la notación científica como la notación de ingeniería y los prefijos métricos con el fin de simbolizar cantidades que sean grandes o pequeñas.
 
--Identificar y aplicar los conceptos de carga eléctrica, voltaje, corriente, resistencias para la resolución de ejercicios propuestos.
+-Identificar y aplicar los conceptos básicos empezando desde la unidad del átomo y expandiéndose a definiciones de carga eléctrica, voltaje, corriente, resistencias para la resolución de ejercicios propuestos.
 
 -Clasificar y analizar los diferentes tipos de resistores para leer sus valores según el código de colores.
 
@@ -375,7 +375,6 @@ La lectura es de 250V
 **4. VIDEO**
 
 **5. CONCLUSIONES**
-
 
 
 **6. BIBLIOGRAFÍA**
