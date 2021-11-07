@@ -41,6 +41,68 @@ Sección 1-2 Notación científica
 <br />
 <br />
 
+##### 11. Realice las siguientes multiplicaciones:
+
+ ![imagen](https://user-images.githubusercontent.com/93798427/140623320-233e02fc-a1c4-4529-a4ec-a5faecb7433d.png)=
+ >![imagen](https://user-images.githubusercontent.com/93798427/140623489-79c4da7f-e946-4490-b10d-cbdeba1d42ed.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140623332-5e9b6bdd-1b6b-4dee-9813-df81be55b369.png)=
+>![imagen](https://user-images.githubusercontent.com/93798427/140623498-69c84731-9a08-4d8b-93f0-ee12ae958425.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140623344-9ac25291-2abc-43ba-840d-2f5a3b7766c8.png)=
+>![imagen](https://user-images.githubusercontent.com/93798427/140623500-221f96cb-4247-40dd-beac-499e100de7f5.png)
+
+**SECCIÓN 1–3 Notación de ingeniería y prefijos métricos**
+
+###### 13. Exprese cada uno de los números siguientes en notación de ingeniería:
+
+![imagen](https://user-images.githubusercontent.com/93798427/140623733-f505c085-aa6f-4bbe-b56a-ae2d1b056399.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140623911-2b10de04-fd56-4f35-8b28-6e66cbe2a9f6.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140623737-ba352c73-5532-4e09-87f5-0dbf3f123910.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140623921-1880d238-d494-4ed3-b48c-d9ba381feec3.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140623741-4c785510-b83f-4b04-a387-c46aa38a1069.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140623936-a04adb15-154f-4408-96c8-2ca430af1bae.png)
+###### 15. Exprese cada número en notación de ingeniería:
+![imagen](https://user-images.githubusercontent.com/93798427/140624000-2edde12d-07c2-4d66-bee7-2d0b4fd67093.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624078-511ff388-e5f0-46b5-8684-853d2f06b92b.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140624006-c1007671-1d2b-46b7-bd3b-76245ab27e3d.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624086-5f9ad5c5-fcaa-43c5-8207-9e45832b81ed.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140624014-10650608-e692-44b5-829e-08fb7f0d7fa1.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624090-ced1481b-94f8-4ca7-aa93-2c0b51a7a77c.png)
+##### 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
+![imagen](https://user-images.githubusercontent.com/93798427/140624198-a655c519-784b-4bb7-8bba-d9c9583a106b.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624354-314d2067-3297-41f1-aaac-a379c62ef0fa.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140624203-009a332c-04ad-4d0e-a10c-6ad24102cda7.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624361-68560ba4-bee2-4e4a-b54a-0a4f4a4a3fa6.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140624208-1f014340-bf79-422b-aa8c-820d50e38420.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624365-b838bf2d-d844-4473-a97f-11380f934d73.png)
+##### 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería
+![imagen](https://user-images.githubusercontent.com/93798427/140624423-3813c9df-52df-4fda-a83d-4d219b976e94.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624536-6c524614-6225-43dc-a329-331626a70531.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140624435-51f03b93-2cec-47c8-9595-0b1436f8f24b.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624560-f0d7ed37-9321-4a16-8edd-6d7645cc9af6.png)
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/140624439-a01c9f94-b613-411c-b794-8c70d3d9ede7.png)
+>![imagen](https://user-images.githubusercontent.com/93798427/140624575-b12349d8-de6d-42d9-a09c-a472879d28a1.png)
+
+
 # CAPITULO 2
 
 <br />
