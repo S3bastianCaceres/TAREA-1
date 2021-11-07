@@ -375,6 +375,19 @@ La lectura es de 250V
 **4. VIDEO**
 
 **5. CONCLUSIONES**
+- Tras el estudio del sistema internacional de unidades se ha logrado precisar la diferencia entre las unidades fundamentales y las unidades completarías además de ser capaces de conceptualizar que son las unidades derivadas.
+
+
+- Se es capaz de aplicar tanto la notación científica como la notación de ingeniería y los prefijos métricos en la resolución de ejercicios de manera que podemos realizar conversión de unidades y expresar números muy pequeños o muy grandes con su respectiva unidad.
+
+
+- Es posible reconocer los conceptos básicos presentes en un circuito eléctrico tales como el átomo, la carga eléctrica, el voltaje, la corriente y la resistencia. Además de que se es posible enunciar las formulas y unidades las cuales se aplican a los ejercicios que se realizaron.
+
+
+- Se logro identificar los valores de diversos ejemplos de resistencias mediante su código de colores, así como también reconocer los diferentes tipos de resistencias que existen y su uso especifico.
+
+- Identificamos los componentes que participan en un circuito eléctrico básico y cuál es su función dentro de este mediante la relación de un esquema con un circuito físico. Así también se logro medir de manera optima tanto el voltaje, la corriente y la resistencia presente en el circuito.
+
 
 
 **6. BIBLIOGRAFÍA**
