@@ -354,7 +354,7 @@ Amperimetro: se coloco en serie con respecto a la fuente.
 
 ![image](https://user-images.githubusercontent.com/93739242/140631597-760ffba9-ffd5-4eb5-91fe-ecd0067ef587.png)
 
-43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+**43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 [![Imagen-3-ejercicio-43.png](https://i.postimg.cc/sxpfmnhr/Imagen-3-ejercicio-43.png)](https://postimg.cc/GTm1hxK7)
 <br />
 La lectura es de 250V
