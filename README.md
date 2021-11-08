@@ -381,6 +381,10 @@ La lectura es de 250V
 
 **4. VIDEO**
 
+**Medición de voltajes en un multimetro analógico**
+
+https://www.youtube.com/watch?v=zteaTmiPUE0
+
 **5. CONCLUSIONES**
 - Tras el estudio del sistema internacional de unidades se ha logrado precisar la diferencia entre las unidades fundamentales y las unidades completarías además de ser capaces de conceptualizar que son las unidades derivadas.
 
