@@ -334,6 +334,8 @@ La corriente pasa através de la lámpara 2.
 
 ![image](https://user-images.githubusercontent.com/93739242/140631559-6cf34cbb-abbc-4ead-9bf7-d5ae1fbbc95c.png)
 
+Disponemos el siguiente diagrama del circuito de manera que mientras el interruptor este arriba la fuente de voltaje VS1 se pueda conectar a R1, y VS2 se pueda conectar a R2, y cuando el interruptor este abajo la fuente de voltaje VS1 se puede conectar a R2, y la fuente de voltaje VS2 se puede conectar a R1.
+
 SECCIÓN 2–7 Mediciones de circuito básicas
 <br />
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
@@ -353,6 +355,8 @@ Amperimetro: se coloco en serie con respecto a la fuente.
 **41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
 
 ![image](https://user-images.githubusercontent.com/93739242/140631597-760ffba9-ffd5-4eb5-91fe-ecd0067ef587.png)
+
+Primero colocamos un amperimetro en serie a lado de la bateria, posterior colocamos un amperimetro en cada seccion donde se encuentran las resistencias las cuales dependiendo de el interruptor recibiran la corriente y se prodra medirlos con el amperimetro.
 
 **43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
 [![Imagen-3-ejercicio-43.png](https://i.postimg.cc/sxpfmnhr/Imagen-3-ejercicio-43.png)](https://postimg.cc/GTm1hxK7)
@@ -378,6 +382,8 @@ La lectura es de 250V
 **47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. (a) I1 (b) V1 (c) R1**
 
 ![image](https://user-images.githubusercontent.com/93739242/140631625-887e6b30-a00e-4fa0-912d-46fd73e837a9.png)
+
+Para medir la Intensidad colocamos el multimetro en serie mientras existe una corriente continua, de igual manera para medir el voltaje se lo hace mientras se tiene una corriente continua y en paralelo, por ultimo para medir la resistencia se desconecta el circuito y se coloca el multimetro en paralelo.
 
 **4. VIDEO**
 
